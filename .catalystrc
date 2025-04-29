@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "16705000000010080",
+      "name": "HCMS-HOSTELCOMPLAINTMANAGEMENTSYSTEM",
+      "domain": {
+        "id": "50026240021",
+        "name": "hcms-hostelcomplaintmanagementsystem-60040559024.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60040559024",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
